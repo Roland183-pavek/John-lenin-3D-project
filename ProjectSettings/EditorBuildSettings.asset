@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Prefabs/Scene john lenin.unity
+    guid: fe063f3dcc0728048821a872c8df42a4
   m_configObjects: {}
